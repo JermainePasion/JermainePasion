@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Jermaine Pasion:
 🖥️ 3rd Year Computer Engineering Undergraduate<br>🤖Aspiring Web Developer (Frontend/Backend)<br>👨‍💻Freelancer<br>
 
 
