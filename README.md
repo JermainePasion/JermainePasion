@@ -1,4 +1,4 @@
-# 💫 Jermaine Pasion:
+# 💫 Jermaine Riley Pasion:
 🖥️ 3rd Year Computer Engineering Undergraduate<br>🤖Aspiring Web Developer (Frontend/Backend)<br>👨‍💻Freelancer<br>
 
 
