@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ 4th Year Computer Engineering Undergraduate<br>🤖Aspiring Web Developer (Frontend/Backend)<br>👨‍💻Freelancing
+🖥️ Computer Engineering Graduate<br>🤖Aspiring Web Developer (Fullstack)<br>👨‍💻Freelancing
 
 
 ## 🌐 Socials:
