@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Computer Engineering Graduate<br>🤖Aspiring Web Developer (Fullstack)<br>👨‍💻Freelancing
+🖥️ Computer Engineering Graduate<br>🤖Software Developer (Fullstack)<br>👨‍💻Freelancing
 
 
 ## 🌐 Socials:
